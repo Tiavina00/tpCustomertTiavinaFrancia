@@ -14,7 +14,7 @@ import mg.itu.tpcustomertiavinafrancia.entity.Customer;
 
 /**
  * Façade pour gérer les Customers.
- * @author xxxx
+ * @author randr
  */
 @RequestScoped
 
