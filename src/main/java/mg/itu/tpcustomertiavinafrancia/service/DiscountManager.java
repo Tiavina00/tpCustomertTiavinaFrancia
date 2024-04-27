@@ -8,9 +8,7 @@ import jakarta.enterprise.context.RequestScoped;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.PersistenceContext;
 import jakarta.persistence.Query;
-import jakarta.transaction.Transactional;
 import java.util.List;
-import mg.itu.tpcustomertiavinafrancia.entity.Customer;
 import mg.itu.tpcustomertiavinafrancia.entity.Discount;
 
 /**
