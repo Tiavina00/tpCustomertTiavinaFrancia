@@ -209,4 +209,5 @@ public class Customer implements Serializable {
         return "mg.itu.tpcustomertiavinafrancia.entity.Customer[ customerId=" + customerId + " ]";
     }
     
+    
 }
